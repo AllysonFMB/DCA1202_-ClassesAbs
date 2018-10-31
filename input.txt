@@ -1,0 +1,9 @@
+dim 80 80
+circle 20 10 10 1 @
+circle 20 40 10 1 @
+circle 20 10 5 1 *
+circle 20 40 5 1 *
+rectangle 30 10 10 30 0 w
+line 32 11 32 40 ¨
+line 37 11 37 40 ¨
+rectangle 1 1 40 50 0 +
